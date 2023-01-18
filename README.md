@@ -1,7 +1,7 @@
-# Datenbank_verwaltung_projekt
+# Datenbank Verwaltung Projekt
 
 INF205 Datenbankssyteme Projekt
 
-###Inhalt:
+### Inhalt:
   1- Datebank sql skript
   2- Projektbericht
